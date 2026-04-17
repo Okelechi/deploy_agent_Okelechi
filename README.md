@@ -1,5 +1,6 @@
 # deploy_agent_Okelechi
-
+## Script explanatory video
+Link: https://youtu.be/0tdDOonwaZA?si=uSjXcZY3prbWFfBd
 ## How to Run the Script
 
 1. Ensure the following files are in the same directory as `setup_project.sh`:
